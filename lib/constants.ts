@@ -28,7 +28,7 @@ export const WISHES: string[] = [
   "Cảm ơn những người phụ nữ đã âm thầm yêu thương, hy sinh và truyền cảm hứng mỗi ngày.",
   "Chúc Cô một ngày 20/10 ngập tràn hoa, nụ cười và những điều ngọt ngào nhất!",
   "Mỗi người phụ nữ là một bông hoa độc nhất. Chúc Cô luôn tự tin tỏa sáng theo cách riêng!",
-  "Chúc các bạn nữ luôn khỏe mạnh, xinh đẹp, thành công và được yêu thương thật nhiều!",
+  "Chúc các quý Cô luôn khỏe mạnh, xinh đẹp, thành công và được yêu thương thật nhiều!",
   "Sức mạnh của người phụ nữ nằm ở sự dịu dàng và lòng kiên cường. Chúc mừng ngày của Cô!",
   "Gửi muôn vàn lời tri ân đến mẹ, bà, chị em và cô giáo — những người làm cuộc sống thêm tươi đẹp!",
 ];
