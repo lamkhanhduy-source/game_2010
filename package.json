@@ -1,0 +1,35 @@
+{
+  "name": "quiz-20-10",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Trò chơi trắc nghiệm hộp quà / bông hồng nhân ngày Phụ nữ Việt Nam 20/10",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.118.0",
+    "canvas-confetti": "^1.9.4",
+    "framer-motion": "^14.3.0",
+    "next": "^16.4.2",
+    "papaparse": "^5.5.2",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "read-excel-file": "^5.8.8"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
+    "@types/canvas-confetti": "^1.9.0",
+    "@types/node": "^22.10.0",
+    "@types/papaparse": "^5.3.15",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^5.9.0"
+  },
+  "engines": {
+    "node": ">=20.9.0"
+  }
+}
