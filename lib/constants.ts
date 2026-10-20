@@ -26,10 +26,10 @@ export const WISHES: string[] = [
   "Chúc mừng 20/10! Chúc những người phụ nữ tuyệt vời luôn rạng rỡ như đóa hồng mùa thu.",
   "Phụ nữ không chỉ là một nửa thế giới — họ là người thắp sáng cả thế giới. Chúc mừng 20/10!",
   "Cảm ơn những người phụ nữ đã âm thầm yêu thương, hy sinh và truyền cảm hứng mỗi ngày.",
-  "Chúc bạn một ngày 20/10 ngập tràn hoa, nụ cười và những điều ngọt ngào nhất!",
-  "Mỗi người phụ nữ là một bông hoa độc nhất. Chúc bạn luôn tự tin tỏa sáng theo cách riêng!",
+  "Chúc Cô một ngày 20/10 ngập tràn hoa, nụ cười và những điều ngọt ngào nhất!",
+  "Mỗi người phụ nữ là một bông hoa độc nhất. Chúc Cô luôn tự tin tỏa sáng theo cách riêng!",
   "Chúc các bạn nữ luôn khỏe mạnh, xinh đẹp, thành công và được yêu thương thật nhiều!",
-  "Sức mạnh của người phụ nữ nằm ở sự dịu dàng và lòng kiên cường. Chúc mừng ngày của bạn!",
+  "Sức mạnh của người phụ nữ nằm ở sự dịu dàng và lòng kiên cường. Chúc mừng ngày của Cô!",
   "Gửi muôn vàn lời tri ân đến mẹ, bà, chị em và cô giáo — những người làm cuộc sống thêm tươi đẹp!",
 ];
 
@@ -37,5 +37,5 @@ export const WISHES: string[] = [
 export const TIMEUP_MESSAGES: string[] = [
   "Hết giờ rồi, nhưng dũng cảm tham gia là đã tuyệt vời lắm rồi!",
   "Tiếc quá! Mở thêm một món quà khác nào.",
-  "Đồng hồ đã dừng — cả lớp cùng vỗ tay động viên nhé!",
+  "Đồng hồ đã dừng — cả nhà cùng vỗ tay động viên nhé!",
 ];
